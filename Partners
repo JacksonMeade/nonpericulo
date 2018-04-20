@@ -40,27 +40,27 @@ At Non Periculo Solutions, we create efficient and responsible Artificial Intell
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index.html">
+                    <a href="index">
                          <img src="assets/images/eye-text-bkgd-122x123.png" alt="LOGO" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index">
                         NP SOLUTIONS</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="About.html">
+                    <a class="nav-link link text-white display-4" href="About">
 
                         About Us
                     </a>
                 </li><li class="nav-item dropdown"><a class="nav-link link text-white dropdown-toggle display-4" href="page2.html" data-toggle="dropdown-submenu" aria-expanded="false">
 
-                        Technologies</a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="Benedict-Supercomputer.html">The BENEDICT Supercomputer</a><a class="text-white dropdown-item display-4" href="Arnold-Network.html">The ARNOLD Network</a><a class="text-white dropdown-item display-4" href="Store.html">Products and Services</a></div></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Partners.html" aria-expanded="false">
+                        Technologies</a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="Benedict-Supercomputer">The BENEDICT Supercomputer</a><a class="text-white dropdown-item display-4" href="Arnold-Network">The ARNOLD Network</a><a class="text-white dropdown-item display-4" href="Store">Products and Services</a></div></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Partners" aria-expanded="false">
 
-                        Partners</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Liability.html" aria-expanded="false">
+                        Partners</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Liability" aria-expanded="false">
 
-                        Liability</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Publicity.html" aria-expanded="false">
+                        Liability</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="Publicity" aria-expanded="false">
 
                         Press</a></li></ul>
 
@@ -255,7 +255,7 @@ At Non Periculo Solutions, we create efficient and responsible Artificial Intell
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
-                <blockquote><p><strong>Thinking about purchasing? &nbsp;&nbsp;</strong><span style="font-style: normal;">See our <a href="Store.html">products and services </a>page to get a quote.</span></p><p><strong>Thinking about using our technologies commercially? </strong><span style="font-style: normal;">Be sure to review our <a href="Liability.html">Liability Terms</a>, then <a href="assets/files/Non Periculo Solutions Commercial Agreement.pdf" target="_blank">Apply Here</a>.</span></p></blockquote>
+                <blockquote><p><strong>Thinking about purchasing? &nbsp;&nbsp;</strong><span style="font-style: normal;">See our <a href="Store">products and services </a>page to get a quote.</span></p><p><strong>Thinking about using our technologies commercially? </strong><span style="font-style: normal;">Be sure to review our <a href="Liability">Liability Terms</a>, then <a href="assets/files/Non Periculo Solutions Commercial Agreement.pdf" target="_blank">Apply Here</a>.</span></p></blockquote>
             </div>
         </div>
     </div>
@@ -303,7 +303,7 @@ At Non Periculo Solutions, we create efficient and responsible Artificial Intell
                     <div class="media-container-row">
                         <div class="col-md-12">
                             <div class="wrap-img ">
-                                <a href="https://www.cmu.edu/research/index.html"><img src="assets/images/carnegiemellon-240x240.jpg" class="img-responsive clients-img" alt="" title=""></a>
+                                <a href="https://www.cmu.edu/research/index"><img src="assets/images/carnegiemellon-240x240.jpg" class="img-responsive clients-img" alt="" title=""></a>
                             </div>
                         </div>
                     </div>
