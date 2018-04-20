@@ -40,11 +40,11 @@ At Non Periculo Solutions, we create efficient and responsible Artificial Intell
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index">
+                    <a href="Home">
                          <img src="assets/images/eye-text-bkgd-122x123.png" alt="LOGO" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="Home">
                         NP SOLUTIONS</a></span>
             </div>
         </div>
@@ -84,11 +84,11 @@ At Non Periculo Solutions, we create efficient and responsible Artificial Intell
       <div class="menu-logo">
           <div class="navbar-brand">
               <span class="navbar-logo">
-                  <a href="index">
+                  <a href="Home">
                        <img src="assets/images/eye-text-bkgd-122x123.png" alt="LOGO" title="" style="height: 3.8rem;">
                   </a>
               </span>
-              <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index">
+              <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="Home">
                       NP SOLUTIONS</a></span>
           </div>
       </div>
