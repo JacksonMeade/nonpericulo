@@ -2451,23 +2451,14 @@ body {
 .cid-qPBnS3mWmT .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qPBnS3mWmT .card {
-/*  -webkit-flex-basis: 100%;*/
-  /*flex-basis: 100%;*/
-  word-wrap: break-word;
-}
+
 .cid-qPBnS3mWmT ellipse {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-qPBnS3mWmT path {
   stroke: #e86531;
 }
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qPBnS3mWmT .card {
-    /*-webkit-flex-basis: 33%;*/
-    /*flex-basis: 33%;*/
-  }
-}
+
 .cid-qPBof40zuy {
   padding-top: 0px;
   padding-bottom: 0px;
