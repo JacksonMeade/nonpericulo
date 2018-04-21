@@ -2452,7 +2452,7 @@ body {
   color: #767676;
 }
 .cid-qPBnS3mWmT .card {
-  -webkit-flex-basis: 100%;
+/*  -webkit-flex-basis: 100%;*/
   /*flex-basis: 100%;*/
   word-wrap: break-word;
 }
@@ -2464,7 +2464,7 @@ body {
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-qPBnS3mWmT .card {
-    -webkit-flex-basis: 33%;
+    /*-webkit-flex-basis: 33%;*/
     /*flex-basis: 33%;*/
   }
 }
